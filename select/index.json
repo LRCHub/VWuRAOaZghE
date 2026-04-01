@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Film Favorit",
+  "base_artist": "Sheila On 7",
+  "createdAt": "2026-04-01T12:06:24.868739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Film Favorit",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/01_Film_Favorit_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Film Favorit",
+      "artist": "Sheila on 7",
+      "has_synced": true,
+      "path": "select/02_Film_Favorit_Sheila_on_7.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Film Favorit",
+      "artist": "Sheila On 7",
+      "has_synced": false,
+      "path": "select/pl_01_Film_Favorit_Sheila_On_7.txt"
+    }
+  ]
+}
